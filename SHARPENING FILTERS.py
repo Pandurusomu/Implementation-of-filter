@@ -1,4 +1,6 @@
 ###Sharpening Filters
+## Name : panduru somu
+## reg no : 212223240111
 # In[4]: Using Laplacian Kernal
 
 
@@ -22,13 +24,13 @@ plt.subplot(1,2,)
 # In[5]:Using Laplacian Operator
 
 
-laplacian=cv2.Laplacian(image2,)
-plt.figure(figsize=(8,8))
-plt.subplot()
-plt.imshow(image2)
-plt.title("Original Image")
-plt.axis("off")
 
+
+laplacian=cv2.Laplacian(image2,cv2.CV_64F)
+plt.imshow(laplacian)
+plt.title("Laplacian Operator")
+plt.axis("off")
+plt.show()
 
 
 
