@@ -112,15 +112,15 @@ plt.show()
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-<img width="502" height="309" alt="image" src="https://github.com/user-attachments/assets/f6a82287-3dd1-4a9f-a9e3-96e0b18c5446" />
 
+<img width="623" height="878" alt="image" src="https://github.com/user-attachments/assets/859e367c-1bd4-40e7-844f-0956e77d74b4" />
 
 
 ### 2. Sharpening Filters
 </br>
 
 ### i) Using Laplacian Kernal
-<img width="623" height="878" alt="image" src="https://github.com/user-attachments/assets/859e367c-1bd4-40e7-844f-0956e77d74b4" />
+<img width="502" height="309" alt="image" src="https://github.com/user-attachments/assets/f6a82287-3dd1-4a9f-a9e3-96e0b18c5446" />
 
 
 
